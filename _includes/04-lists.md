@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# I :heart: Git
+1. Design
+2. Learning
+3. Understanding
+   1. People
+   2. Code
