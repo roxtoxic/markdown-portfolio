@@ -1,1 +1,1 @@
-![Decpticon] (https://tfwiki.net/mediawiki/images2/8/8d/Symbol_decept_reg.png)
+(![Decepticon]((![alt-text](https://tfwiki.net/mediawiki/images2/8/8d/Symbol_decept_reg.png))
